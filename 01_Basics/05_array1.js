@@ -14,5 +14,13 @@ console.log(length1);
 
 let sum1 = fruits.join(" * ");
 console.log(sum1);
+const fruits1 = ["Banana", "Orange", "Apple", "Mango"];
+let abc = fruits.sort();
+let lmn = fruits.reverse();
+console.log(abc);
+console.log(lmn);
+
+
+
 
 
