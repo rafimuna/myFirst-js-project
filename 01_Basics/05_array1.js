@@ -6,6 +6,12 @@ console.log(cars[2]);//array index
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 // array push method
 let length = fruits.push('Banana');
+console.log(length);
+
+// array pop method
+let length1 = fruits.pop();
+console.log(length1);
+
 let sum1 = fruits.join(" * ");
 console.log(sum1);
 
